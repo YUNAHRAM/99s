@@ -1,6 +1,6 @@
 # 99s
 first project
-https::yunahram.github.io/99s
+https://yunahram.github.io/99s/
 
 #팀원
 배진화 - 배사장
