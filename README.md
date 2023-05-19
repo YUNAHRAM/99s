@@ -1,7 +1,7 @@
 # 99s
 first project
 </br>
-https://yunahram.github.io/99s/
+https://yunahram.github.io/99s/html/first.html
 
 </br>
 
