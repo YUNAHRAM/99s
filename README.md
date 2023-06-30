@@ -3,7 +3,7 @@ first project
 </br>
 my site 
 </br>
-https://yunahram.github.io/99s/html/ck1.html
+https://yunahram.github.io/99s/html/clk1.html
 </br>
 https://yunahram.github.io/99s/html/index.html
 
